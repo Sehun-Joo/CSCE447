@@ -1,6 +1,7 @@
 ,,,,,,
-Texas,,,,,, LAT LON
+Texas,,,,,, 
 ,,,,,,
+       ,LAT  ,LON  ,NAME
 [ABI]  ,32.42,99.68,"Abilene,TX",,,
 [ALI]  ,27.73,98.03,"Alice,TX",,,
 [AMA]  ,35.23,101.70,"Amarillo,TX",,,
